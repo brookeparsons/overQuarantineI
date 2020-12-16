@@ -7,6 +7,17 @@ body {
   padding: 5px;
 }
 
+a {
+  color: black;
+}
+
+.authors {
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  margin: 0%;
+}
+
 .row {
   display: flex;
   flex-wrap: wrap;
